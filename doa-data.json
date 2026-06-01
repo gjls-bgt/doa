@@ -53,7 +53,7 @@
 		{
 			"number":8,
 			"name":"Doa Saat Lupa Baca Doa Sebelum Makan",
-			"arabic":"بِسْمِ اللهِ فِىِ أَوَّلِهِ وَآخِرِهِ",
+			"arabic":"بِسْمِ اللّٰهِ فِىْ أَوَّلِهِ وَآخِرِهِ",
 			"latin":"Bismillaahi fii awwalihi waakhirihi",
 			"translation":"Dengan menyebut nama Allah pada awal dan akhirnya"
 		},
@@ -88,7 +88,7 @@
 		{
 			"number":13,
 			"name":"Doa Setelah Wudhu",
-			"arabic":"اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لاَشَرِيْكَ لَهُ وَاَشْهَدُ اَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اَللّٰهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ",
+			"arabic":"اَشْهَدُ اَنْ لَّا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لَاشَرِيْكَ لَهُ وَاَشْهَدُ اَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اَللّٰهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ",
 			"latin":"Asyhadu an laailaha illallah wahdahu laa syariika lahu waasyhadu anna muhammadan 'abduhu warasuuluhu. Allahhummaj'alnii minattawwaa biina waj'alnii minalmutathahhiriin",
 			"translation":"Aku bersaksi, tidak ada Tuhan selain Allah yang maha esa, tidak ada sekutu ьagi-nya, dan aku mengaku bahwa nabi muhammad itu adalah hamba dan utusan Allah. Ya Allah, jadikanlah aku dari golongan orang-orang yang bertaubat dan jadikanlah aku dari golongan orang-orang yang bersuci"
 		},
@@ -116,7 +116,7 @@
 		{
 			"number":17,
 			"name":"Doa Keluar Kamar Mandi/Toilet",
-			"arabic":"غُفْرَانَكَ الْحَمْدُ لِلّٰهِ الَّذِيْ اَذْهَبَ عَنِّى اْلاَذَى وَعَافَانِىْ",
+			"arabic":"غُفْرَانَكَ الْحَمْدُ لِلّٰهِ الَّذِيْ اَذْهَبَ عَنِّى الْاَذَى وَعَافَانِىْ",
 			"latin":"Gufraanaka alhamdulillaahil ladzii adzhaba 'annil adzaa Wa 'aafaanii",
 			"translation":"Dengan mengharap ampunanmu, segala puji milik Allah yang telah menghilangkan kotoran dari badanku dan yang telah menyejahterakan"
 		},
@@ -137,7 +137,7 @@
 		{
 			"number":20,
 			"name":"Doa Memakai Pakaian Baru",
-			"arabic":"اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّىْ وَلاَقُوَّةٍ",
+			"arabic":"اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّىْ وَلَاقُوَّةٍ",
 			"latin":"Alhamdu lillaahil ladzii kasaanii hadzaa wa rozaqoniihi min ghoiri hawlim minni wa laa quwwatin",
 			"translation":"Segala puji bagi Allah yang memberi aku pakaian ini dan memberi rezeki dengan tiada upaya dan kekuatan dariku"
 		},
@@ -158,14 +158,14 @@
 		{
 			"number":23,
 			"name":"Doa Setelah Adzan",
-			"arabic":"اَللّٰهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّآمَّةِ، وَالصَّلاَةِ الْقَآئِمَةِ، آتِ مُحَمَّدَانِ الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالشَّرَفَ وَالدَّرَجَةَ الْعَالِيَةَ الرَّفِيْعَةَ وَابْعَثْهُ مَقَامًامَحْمُوْدَانِ الَّذِىْ وَعَدْتَهُ اِنَّكَ لاَتُخْلِفُ الْمِيْعَادَ يَآاَرْحَمَ الرَّحِمِيْنَ",
+			"arabic":"اَللّٰهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّآمَّةِ، وَالصَّلَاةِ الْقَآئِمَةِ، آتِ مُحَمَّدَانِ الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالشَّرَفَ وَالدَّرَجَةَ الْعَالِيَةَ الرَّفِيْعَةَ وَابْعَثْهُ مَقَامًامَحْمُوْدَانِ الَّذِىْ وَعَدْتَهُ اِنَّكَ لَاتُخْلِفُ الْمِيْعَادَ يَآاَرْحَمَ الرَّحِمِيْنَ",
 			"latin":"Allahumma robba haadzida'watitaammah, wasshalaatil qaaimah, aati muhammadanilwasiilata walfadhiilata wassyarafa waddarajatal'aaliyatarro fii'ah wab'atshu maqaa mammahmuudanilladzii wa 'adtahu innaka laa tukhliful mii'ad yaaa arhamarrahimiin",
 			"translation":"Ya Allah, Tuhan yang memiliki seruan yang sempurna dan shalat yang tetap didirikan, kurniailah nabi Muhammad wasilah (tempat yang luhur) dan kelebihan serta kemuliaan dan derajat yang tinggi dan tempatkanlah dia pada kependudukan yang terpuji yang telah engkaujanjikan, sesungguhnya engkau tiada menyalahi janji, wahai dzat yang paling penyayang"
 		},
 		{
 			"number":24,
 			"name":"Doa Setelah Iqamah",
-			"arabic":"اَقَامَهَآللّٰهُ وَاَدَامَهَا مَادَامَتِ السَّمَوَاتُ وَاْلاَرْضُ",
+			"arabic":"اَقَامَهَآللّٰهُ وَاَدَامَهَا مَادَامَتِ السَّمَوَاتُ وَالْاَرْضُ",
 			"latin":"aqaamahallahu wa adaa mahaa maadaa matissamawaatu wal ardu",
 			"translation":"Semoga Allah menegakkan dan mengekalkan shalat selama masih ada langit dan bumi"
 		},
@@ -193,29 +193,29 @@
 		{
 			"number":28,
 			"name":"Doa Ketika Hendak Membaca Al-Quran",
-			"arabic":"اَللّٰهُمَّ افْتَحْ عَلَىَّ حِكْمَتَكَ وَانْشُرْ عَلَىَّ رَحْمَتَكَ وَذَكِّرْنِىْ مَانَسِيْتُ يَاذَاالْجَلاَلِ وَاْلاِكْرَامِ",
+			"arabic":"اَللّٰهُمَّ افْتَحْ عَلَىَّ حِكْمَتَكَ وَانْشُرْ عَلَىَّ رَحْمَتَكَ وَذَكِّرْنِىْ مَانَسِيْتُ يَاذَآلْجَلَالِ وَالْاِكْرَامِ",
 			"latin":"Allahummaftah 'alayya hikmataka wansyur 'alayya rahmataka wa dzakkirnii maa nasiitu yaa dzaljalaali wal ikraam",
 			"translation":"Ya Allah bukakanlah hikmahmu padaku, bentangkanlah rahmatmu padaku dan ingatkanlah aku terhadap apa yang aku lupa, wahai dzat yang memiliki keagungan dan kemuliaan"
 		},
 		{
 			"number":29,
-			"name":"Doa Setelah Selesai Membaca Al-Quran ",
-			"arabic":"اَللّٰهُمَّ ارْحَمْنِىْ بِالْقُرْآنِ. وَاجْعَلْهُ لِىْ اِمَامًا وَنُوْرًا وَّهُدًى وَّرَحْمَةً. اَللّٰهُمَّ ذَكِّرْنِىْ مِنْهُ مَانَسِيْتُ وَعَلِّمْنِىْ مِنْهُ مَاجَهِلْتُ. وَارْزُقْنِىْ تِلاَ وَتَهُ آنَآءَ اللَّيْلِ وَاَطْرَافَ النَّهَارٍ. وَاجْعَلْهُ لِىْ حُجَّةً يَارَبَّ الْعَالَمِيْنَ",
+			"name":"Doa Setelah Selesai Membaca Al-Quran",
+			"arabic":"اَللّٰهُمَّ ارْحَمْنِىْ بِالْقُرْآنِ. وَاجْعَلْهُ لِىْ اِمَامًا وَنُوْرًا وَّهُدًى وَّرَحْمَةً. اَللّٰهُمَّ ذَكِّرْنِىْ مِنْهُ مَانَسِيْتُ وَعَلِّمْنِىْ مِنْهُ مَاجَهِلْتُ. وَارْزُقْنِىْ تِلَا وَتَهُ آنَآءَ اللَّيْلِ وَاَطْرَافَ النَّهَارٍ. وَاجْعَلْهُ لِىْ حُجَّةً يَارَبَّ الْعَالَمِيْنَ",
 			"latin":"Allahummarhamnii bilquraani waj'alhu lii imaa man wa nuu rowwahudawwarahmah. Allahumma dakkirni minhu maa nasiitu wa 'allimni minhu maa jahiltu. warzuqnii tilaa watahu annaaa allayli wathroofannahaarin. waj'alhu lii hujjatan yaa robbal'aalamiin",
 			"translation":"Ya Allah, rahmatilah aku dengan Al-Quran yang agung, jadikanlah ia ьagiku ikutan cahaya petunjuk rahmat. Ya Allah, ingatkanlah apa yang telah aku lupa dan ajarkan kepadaku apa yang tidak aku ketahui darinya, anugerahkanlah padaku kesempatan membacanya pada sebagian malam dan siang, jadikanlah ia hujjah yang kuat bagiku, wahai Tuhan seru sekalian alam"
 		},
 		{
 			"number":30,
 			"name":"Doa Masuk Rumah",
-			"arabic":"اَللهُمَّ اِنّىْ اَسْأَلُكَ خَيْرَالْمَوْلِجِ وَخَيْرَالْمَخْرَجِ بِسْمِ اللهِ وَلَجْنَا وَبِسْمِ اللهِ خَرَجْنَا وَعَلَى اللهِ رَبّنَا تَوَكَّلْنَا",
+			"arabic":"اَللّٰهُمَّ اِنّىْ اَسْأَلُكَ خَيْرَالْمَوْلِجِ وَخَيْرَالْمَخْرَجِ بِسْمِ اللّٰهِ وَلَجْنَا وَبِسْمِ اللّٰهِ خَرَجْنَا وَعَلَى اللّٰهِ رَبَّنَا تَوَكَّلْنَا",
 			"latin":"Allahumma inni asaluka khayrolmawji wa khayrolmakhraji bismillaahi walajnaa wabismisllaahi kharajnaa wa 'allallaahi robbanaa tawakkalna ",
 			"translation":"Ya Allah, sesungguhnya aku mohon kepada-Mu baiknya tempat masuk dan baiknya tempat keluar dengan menyeьut nama Allah kami masuk, dan dengan menyeьut nama Allah kami keluar dan kepada Allah Tuhan kami, kami bertawakkal"
 		},
 		{
 			"number":31,
 			"name":"Doa Keluar Rumah",
-			"arabic":"بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِاللهِ",
-			"latin":"Subhaanalladzii sakh-kharalanaa hadzaa wa maa kunnaa lahu muqriniina wainnaaa illa robbana lamunqolibuuna",
+			"arabic":"بِسْمِ اللّٰهِ تَوَكَّلْتُ عَلَى اللّٰهِ لَاحَوْلَ وَلَاقُوَّةَ اِلَّابِاللّٰهِ",
+			"latin":"Bismillahi, tawakkaltu 'alallah, laa hawla wa laa quwwata illaa billaah",
 			"translation":"Dengan menyebut nama Allah aku bertawakal kepada Allah, tiada daya kekuatan melainkan dengan Allah"
 		},
 		{
@@ -228,21 +228,21 @@
 		{
 			"number":33,
 			"name":"Doa Naik Kendaraan Laut",
-			"arabic":"بِسْمِ اللهِ مَجْرَهَا وَمُرْسَهَآ اِنَّ رَبّىْ لَغَفُوْرٌرَّحِيْمٌ",
+			"arabic":"بِسْمِ اللّٰهِ مَجْرَهَا وَمُرْسَهَآ اِنَّ رَبِّىْ لَغَفُوْرٌرَّحِيْمٌ",
 			"latin":"Bismillaahi majrohaa wamursahaa inna robbii lagofuu rurrohiim",
 			"translation":"Dengan nama Allah yang menjalankan kendaraan ini berlayar dan berlabuh sesungguhnya Tuhanku maha pemaaf lagi pengasih"
 		},
 		{
 			"number":34,
 			"name":"Doa Saat Sampai Ditempat Tujuan",
-			"arabic":"اَلْحَمْدُ ِللهِ الَّذِى سَلَمَنِى وَالَّذِى اَوَنِى وَالَّذِى جَمَعَ الشَّمْلَ بِ",
+			"arabic":"اَلْحَمْدُ لِلّٰهِ الَّذِى سَلَمَنِى وَالَّذِى اَوَنِى وَالَّذِى جَمَعَ الشَّمْلَ بِ",
 			"latin":"Alhamdulillaahilladzii salamanii walladzii awanii walladzii jama'asyamlabi",
 			"translation":"Segala puji bagi Allah, yang telah menyelamatkan aku dan yang telah melindungiku dan yang mengumpulkanku dengan keluargaku"
 		},
 		{
 			"number":35,
 			"name":"Doa Agar Diberi Rezeki yang Berkah",
-			"arabic":"اَلْحَمْدُ ِللهِ الَّذِىْ رَزَقَنِىْ هذَا مِنْ خَيْرِ حَوْلٍ مِنِّى وَلاَقُوَّةٍ، اَللهُمَّ بَارِكْ فِيْهِ",
+			"arabic":"اَلْحَمْدُ لِلّٰهِ الَّذِىْ رَزَقَنِىْ هَذَا مِنْ خَيْرِ حَوْلٍ مِنِّى وَلَاقُوَّةٍ، اَللّٰهُمَّ بَارِكْ فِيْهِ",
 			"latin":"Alhamdulilladzii rozaqonii hadzaa min khoyri hawlimminni wa laa quwwatin, allahumma baarik fiij",
 			"translation":"Segala puji bagi Allah, yang telah memberi rizqi kepadaku dengan tidak ada daya dan kekuatan bagiku, ya Allah semoga engkau berkahi pada rizkiku"
 		},
@@ -277,7 +277,7 @@
 		{
 			"number":40,
 			"name":"Doa Niat Wudhu",
-			"arabic":"نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ اْلاَصْغَرِ فَرْضًا لِلّٰهِ تَعَالَى",
+			"arabic":"نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ الْاَصْغَرِ فَرْضًا لِلّٰهِ تَعَالَى",
 			"latin":"Nawaitulwudhuu a lirof'ilhadatsil asgari fardhallillahita 'aala",
 			"translation":"saya niat berwudhu untuk menghilangkan hadast kecil fardu (wajib) karena Allah ta'ala"
 		},
@@ -291,21 +291,21 @@
 		{
 			"number":42,
 			"name":"Doa Sebelum Wudhu",
-			"arabic":"نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ اْلاَصْغَرِ فَرْضًا لِلّٰهِ تَعَالَى",
+			"arabic":"نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ الْاَصْغَرِ فَرْضًا لِلّٰهِ تَعَالَى",
 			"latin":"Nawaitul whudu-a lirof'il hadatsii ashghori fardhon lillaahi ta'aalaa",
 			"translation":"Saya niat berwudhu untuk menghilangkan hadast kecil fardu (wajib) karena Allah ta'ala"
 		},
 		{
 			"number":43,
 			"name":"Doa Sebelum Membaca AlQuran",
-			"arabic":"اَللّٰهُمَّ افْتَحْ عَلَىَّ حِكْمَتَكَ وَانْشُرْ عَلَىَّ رَحْمَتَكَ وَذَكِّرْنِىْ مَانَسِيْتُ يَاذَاالْجَلاَلِ وَاْلاِكْرَامِ",
+			"arabic":"اَللّٰهُمَّ افْتَحْ عَلَىَّ حِكْمَتَكَ وَانْشُرْ عَلَىَّ رَحْمَتَكَ وَذَكِّرْنِىْ مَانَسِيْتُ يَاذَآلْجَلَالِ وَالْاِكْرَامِ",
 			"latin":"Allahummaftah 'alayya hikmataka wansyur 'alayya rohmataka wa dzakkirnii maanasiitu yaa dzal jalaali wal ikhroomi",
 			"translation":"Ya Allah bukakanlah hikmahMu padaku, bentangkanlah rahmatMu padaku dan ingatkanlah aku terhadap apa yang aku lupa, wahai Dzat yang memiliki keagungan dan kemuliaan."
 		},
 		{
 			"number":44,
 			"name":"Doa Setelah Membaca AlQuran",
-			"arabic":"اَللّٰهُمَّ ارْحَمْنِىْ بِالْقُرْآنِ. وَاجْعَلْهُ لِىْ اِمَامًا وَنُوْرًا وَّهُدًى وَّرَحْمَةً. اَللّٰهُمَّ ذَكِّرْنِىْ مِنْهُ مَانَسِيْتُ وَعَلِّمْنِىْ مِنْهُ مَاجَهِلْتُ. وَارْزُقْنِىْ تِلاَ وَتَهُ آنَآءَ اللَّيْلِ وَاَطْرَافَ النَّهَارٍ. وَاجْعَلْهُ لِىْ حُجَّةً يَارَبَّ الْعَالَمِيْنَ",
+			"arabic":"اَللّٰهُمَّ ارْحَمْنِىْ بِالْقُرْآنِ. وَاجْعَلْهُ لِىْ اِمَامًا وَنُوْرًا وَّهُدًى وَّرَحْمَةً. اَللّٰهُمَّ ذَكِّرْنِىْ مِنْهُ مَانَسِيْتُ وَعَلِّمْنِىْ مِنْهُ مَاجَهِلْتُ. وَارْزُقْنِىْ تِلَاوَتَهُ آنَآءَ اللَّيْلِ وَاَطْرَافَ النَّهَارٍ. وَاجْعَلْهُ لِىْ حُجَّةً يَارَبَّ الْعَالَمِيْنَ",
 			"latin":"Allahummarhamnii bil qur'aani. waj'alhu lii imaaman wa nuuran wa hudan wa rohman. Allahumma dzakkirnii minhu maa nasiitu wa'allimnii minhu maa jahiltu. wazuqnii tilaa watahu aanaa-al laili wa athroofan nahaari. waj'alhu lii hujjatan yaa robbal 'aalamiina.",
 			"translation":"Ya Allah, rahmatilah aku dengan Al-Quran yang agung, jadikanlah ia bagiku ikutan cahaya petunjuk rahmat. Ya Allah, ingatkanlah apa yang telah aku lupa dan ajarkan kepadaku apa yang tidak aku ketahui darinya, anugerahkanlah padaku kesempatan membacanya pada sebagian malam dan siang, jadikanlah ia hujjah yang kuat bagiku, wahai Tuhan seru sekalian alam."
 		},
@@ -326,28 +326,28 @@
 		{
 			"number":47,
 			"name":"Doa Ketika Sampai di Tempat Tujuan",
-			"arabic":"اَلْحَمْدُ ِللهِ الَّذِى سَلَمَنِى وَالَّذِى اَوَنِى وَالَّذِى جَمَعَ الشَّمْلَ بِ",
+			"arabic":"اَلْحَمْدُ لِلّٰهِ الَّذِى سَلَمَنِى وَالَّذِى اَوَنِى وَالَّذِى جَمَعَ الشَّمْلَ بِ",
 			"latin":"Alhamdulillahil ladzi sallamani wal ladzi awani wal ladzi jama'asy syamla bi",
 			"translation":"Segala puji bagi Allah, yang telah menyelamatkan akau dan yang telah melindungiku dan yang mengumpulkanku dengan keluargaku."
 		},
 		{
 			"number":48,
 			"name":"Doa Memakai Pakaian",
-			"arabic":"بِسْمِ اللهِ اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَاهُوَ لَهُ وَاَعُوْذُبِكَ مِنْ شَرِّهِ وَشَرِّمَا هُوَلَهُ",
+			"arabic":"بِسْمِ اللّٰهِ اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَاهُوَ لَهُ وَاَعُوْذُبِكَ مِنْ شَرِّهِ وَشَرِّمَا هُوَلَهُ",
 			"latin":"Bismillaahi, Alloohumma innii as-aluka min khoirihi wa khoiri maa huwa lahuu wa'a'uu dzubika min syarrihi wa syarri maa huwa lahuu",
 			"translation":"Dengan nama-Mu yaa Allah akku minta kepada Engkau kebaikan pakaian ini dan kebaikan apa yang ada padanya, dan aku berlindung kepada Engkau dari kejahatan pakaian ini dan kejahatan yang ada padanya"
 		},
 		{
 			"number":49,
 			"name":"Doa Memakai Pakaian Baru",
-			"arabic":" اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّىْ وَلاَقُوَّةٍ",
+			"arabic":" اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّىْ وَلَاقُوَّةٍ",
 			"latin":"Alhamdu lillaahil ladzii kasaanii haadzaa wa rozaqoniihi min ghoiri hawlim minni wa laa quwwatin",
 			"translation":"Segala puji bagi Allah yang memberi aku pakaian ini dan memberi rizeki dengan tiada upaya dan kekuatan dariku"
 		},
 		{
 			"number":50,
 			"name":"Doa Melepas Pakaian",
-			"arabic":"بِسْمِ اللهِ الَّذِيْ لاَ إِلَهَ إِلَّا هُوَ",
+			"arabic":"بِسْمِ اللّٰهِ الَّذِيْ لَا إِلَهَ إِلَّا هُوَ",
 			"latin":"Bismillaahil ladzii laa ilaaha illaa huwa",
 			"translation":"Dengan nama Allah yang tiada Tuhan selain-Nya"
 		},
@@ -389,7 +389,7 @@
 		{
 			"number":56,
 			"name":"Doa Mohon Kesabaran dalam Menghadapi Masalah / Musibah",
-			"arabic":"رَبَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
+			"arabic":"رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
 			"latin":"Rabbanaa laa tuzigh quluubanaa ba'da idz hadaitana wa hablana min ladunka rahmah innaka antal wahhab",
 			"translation":"Ya Allah, janganlah Engkau jadikan hati kami condong kepada kesesatan sesudah Engkau beri petunjuk kepada kami, dan karuniakanlah kepada kami rahmat dari sisi Engkau; karena sesungguhnya Engkau-lah Maha Pemberi (karunia)."
 		},
@@ -417,7 +417,7 @@
 		{
 			"number":60,
 			"name":"Doa Masuk Pasar",
-			"arabic":"لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكُ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِى وَيُمِيتُ وَهُوَ حَىٌّ لاَ يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ",
+			"arabic":"لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكُ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِى وَيُمِيتُ وَهُوَ حَىٌّ لَا يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ",
 			"latin":"Laa ilaaha illalloohu wahdahu laa syariikalah. Lahul mulku walahul hamdu. Yuhyii wa yumiitu wahuwa hayyun laa yamuut. Biyadihil khoir wahuwa 'alaa kulli syai-in qodiir",
 			"translation":"Tiada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagiNya. Dia yang mempunyai kerajaan dan segala pujian. Dialah yang menghidupkan dan mematikan, dan Dia Mahahidup yang tidak mati. Di tangan-Nya segala kebaikan dan Dia Mahakuasa atas segala sesuatu."
 		},
@@ -452,14 +452,14 @@
 		{
 			"number":65,
 			"name":"Doa Mendengar Orang Bersin",
-			"arabic":"يَرْحَمُكَ اللهُ",
+			"arabic":"يَرْحَمُكَ اللّٰهُ",
 			"latin":"Yarhamukallaah",
 			"translation":"Semoga Allah memberikan rahmat kepadamu"
 		},
 		{
 			"number":66,
 			"name":"Doa Menjenguk Orang Sakit",
-			"arabic":"اللَّهُمَّ رَبَّ النَّاسِ مُذْهِبَ الْبَاسِ اشْفِ أَنْتَ الشَّافِى لاَ شَافِىَ إِلاَّ أَنْتَ ، شِفَاءً لاَ يُغَادِرُ سَقَمًا",
+			"arabic":"اَللّٰهُمَّ رَبَّ النَّاسِ مُذْهِبَ الْبَاسِ اشْفِ أَنْتَ الشَّافِى لَا شَافِىَ إِلَّا أَنْتَ ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
 			"latin":"Allahumma rabban naas mudzhibal ba'si isyfi antasy-syaafii laa syafiya illaa anta syifaa'an laa yughaadiru saqoman.",
 			"translation":"Ya Allah Wahai Tuhan segala manusia, hilangkanlah penyakitnya, sembukanlah ia. (Hanya) Engkaulah yang dapat menyembuhkannya, tidak ada kesembuhan melainkan kesembuhan dari-Mu, kesembuhan yang tidak kambuh lagi."
 		},
